@@ -60,5 +60,3 @@ function lastPurchase(purchase) {
   console.log(customerWithPurchase);
   return customerWithPurchase;
 }
-
-
